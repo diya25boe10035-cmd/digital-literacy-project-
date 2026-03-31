@@ -7,15 +7,15 @@ Diya Sangeeth
 
 25BOE10035
 
-Task 1:
+Task 1: A single slide depicting various points on digital tools for students and professional onnline presence along witha brief description on digital literacy and a picture of a boy on his computer.
 
-Task 2:
+Task 2: Screenshots of Linkin, Kaggle and Github profiles.
 
-Task 3:
+Task 3: Screenshots of Hackerrank's Solve Me First and Digital Literacy Awareness Quiz Google Form.
 
-Task 4:
+Task 4: Two professional emails, one asking for extension on an assignment and the other enquiring after any available interships. A checklist of Social media dos and don'ts.
 
-Task 5:
+Task 5: Case study on ransomeware and a "Stay Safe Online" checklist for college students.
 
 Digital Literacy Awareness Quiz Google Form:
 
