@@ -7,7 +7,7 @@ Diya Sangeeth
 
 25BOE10035
 
-Task 1: A single slide depicting various points on digital tools for students and professional onnline presence along witha brief description on digital literacy and a picture of a boy on his computer.
+Task 1: A single slide depicting various points on digital tools for students and professional online presence along with a brief description on digital literacy and a picture of a boy on his computer.
 
 Task 2: Screenshots of Linkin, Kaggle and Github profiles.
 
